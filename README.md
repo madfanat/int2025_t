@@ -21,7 +21,7 @@ __int2025_t__ is a C++23 library for a configurable fixed-width signed integer.
 - Overflow wraps at the last bit.
 
 
-## Build and test
+## Building and testing
 
 ```sh
 cmake -S . -B build
